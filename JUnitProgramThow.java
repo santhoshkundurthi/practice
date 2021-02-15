@@ -21,7 +21,7 @@ import com.anz.file.util.PropertiesFileReader;
 import com.anz.pojo.CreditEntities;
 import com.anz.service.CalculatorCreditLimit;
 
-public class JUnitProgramThow {
+public class CalculatorCreditLimitTest {
 	@Before
 	public void setup() {
 		MockitoAnnotations.initMocks(this);
